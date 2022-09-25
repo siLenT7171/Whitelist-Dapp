@@ -44,8 +44,6 @@
   margin-bottom: 2%;
 }
 
-.test {color: #ffffff;}
-
 @media (max-width: 1000px) {
   .main {
     width: 100%;
